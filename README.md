@@ -1,4 +1,4 @@
-# Golpes-Digitais
+## Golpes-Digitais
 Link do Canva: https://canva.link/ewmj28dfer848s0
 👥 Projeto em grupo
 Este projeto está sendo desenvolvido em colaboração.
